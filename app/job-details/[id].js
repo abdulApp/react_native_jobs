@@ -40,7 +40,7 @@ const JobDetails = () => {
   }, []);
 
 // 
-
+// you are greate
   const displayTabContent = () => {
     switch (activeTab) {
       case "Qualifications":
