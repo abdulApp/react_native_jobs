@@ -39,6 +39,7 @@ const JobDetails = () => {
     setRefreshing(false)
   }, []);
 
+// 
 
   const displayTabContent = () => {
     switch (activeTab) {
